@@ -76,9 +76,11 @@ CREATE TABLE bookings (
     FOREIGN KEY (car_id) REFERENCES cars(id) ON DELETE CASCADE,
     FOREIGN KEY (customer_id) REFERENCES customers(id) ON DELETE CASCADE
 );
-Project Structure 🗂️
+
+
+###Project Structure 🗂️
 css
-Copy code
+
 online-car-dealership/
 ├── src/
 │   └── com/
@@ -94,7 +96,9 @@ online-car-dealership/
 ├── .gitignore
 ├── README.md
 └── Main.java
-Technologies Used 🚀
+
+
+###Technologies Used 🚀
 Java (JDK): Backend development and logic.
 JDBC: Database connectivity.
 MySQL: Database storage and management.
@@ -102,17 +106,21 @@ HTML, CSS, JavaScript: Frontend design and functionality.
 MySQL JDBC Driver: Connects Java to MySQL.
 VS Code: Development environment.
 Maven: Dependency management.
-Relationships 🔗
+
+
+###Relationships 🔗
 One-to-Many between cars and bookings: A car can have multiple bookings.
 One-to-Many between customers and bookings: A customer can make multiple bookings.
 Cascade Deletes: Deleting a car or customer removes associated bookings automatically.
-Contributing ✨
+
+
+###Contributing ✨
 Feel free to contribute by forking this repository and creating a pull request with your improvements or bug fixes.
 
 This project demonstrates expertise in full-stack development, database management, and front-end design. It is scalable for future enhancements like payment gateways and automated notifications, making it a robust example of a real-world web application.
 
 markdown
-Copy code
+
 
 ### Steps to Save
 1. Create a file named `README.md` in your project root.
@@ -126,6 +134,5 @@ Let me know if you need further assistance!
 
 
 
-You said:
-give all in single frame
+
 
