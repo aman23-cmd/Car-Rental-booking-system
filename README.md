@@ -134,6 +134,9 @@ Feel free to contribute by forking this repository and creating a pull request w
 
 This project demonstrates expertise in full-stack development, database management, and front-end design. It is scalable for future enhancements like payment gateways and automated notifications, making it a robust example of a real-world web application.
 
+![Alt Text](![Alt text](<Screenshot 2024-12-03 224020.png>))
+![Alt Text](![Alt text](<Screenshot 2024-12-03 224020-1.png>))
+
 
 
 
